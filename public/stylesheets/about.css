@@ -1,0 +1,7 @@
+.nav-list ul li:nth-child(1) {
+    background: #555;
+}
+
+.nav-list ul li:nth-child(1) a {
+    color: #fff;
+}
